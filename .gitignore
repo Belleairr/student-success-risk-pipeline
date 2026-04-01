@@ -1,0 +1,7 @@
+.idea/
+.venv/
+*.iml
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
